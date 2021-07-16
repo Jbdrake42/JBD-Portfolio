@@ -24,10 +24,10 @@
     display: block;
  }
  
- /* #pic{
-    width: 100%;
-    height: auto;
-} */
+ #pic{
+    width: 75%;
+    height: 75%;
+}
 
  #portrait2{
     margin-top: 15%;
